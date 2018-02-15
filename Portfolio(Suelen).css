@@ -1,0 +1,62 @@
+
+/***************Suelen Tanaka 02.12.2018***************/
+
+body {
+	height: 100%;
+	margin: 0px;
+	background:linear-gradient(340deg, #ff9ff3 0.14%, rgba(95,39,205,1) 99.61%);
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+.navbar-brand {
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.rainbow {
+  background-image: -webkit-gradient(linear, right top, left top, color-stop(0.3, #ffd480), color-stop(1, #ff9933));
+  background-image: gradient(linear, right top, left top, color-stop(0.3, #ffd480), color-stop(1, #ff9933));
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+#typed {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	
+}
+
+table {
+	text-align: center;
+	height: 160px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+
+#skills {
+	background-color: #d2dae2;
+}
+
+.container-fluid {
+	color: black;
+	background-color: white;
+	font-family: 'Raleway', sans-serif;
+	text-align: left;
+	padding: 30px;
+	margin-left: 40px;
+	line-height: 1.75em;
+}
+
+.progress {
+	margin-bottom: 20px;
+}
+
+.progress-bar {
+	font-family: 'Raleway', sans-serif;
+    -webkit-transition: width 2.5s ease;
+    transition: width 2.5s ease;
+}
