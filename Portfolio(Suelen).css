@@ -37,7 +37,7 @@ table {
 }
 
 
-#skills {
+#skills, #languages {
 	background-color: #d2dae2;
 }
 
@@ -52,11 +52,19 @@ table {
 }
 
 .progress {
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 }
 
 .progress-bar {
 	font-family: 'Raleway', sans-serif;
     -webkit-transition: width 2.5s ease;
     transition: width 2.5s ease;
+}
+
+.fa-star, .fa-star-half {
+	color: #7336D2;
+}
+
+.carousel-caption {
+	
 }

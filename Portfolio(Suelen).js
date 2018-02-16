@@ -19,3 +19,4 @@ var typed = new Typed('#typed', {
 	typeSpeed: 30,
 	fadeOut: true
 });
+
